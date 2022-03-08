@@ -94,7 +94,7 @@ header bar:
       support for a new *target language* in *jsii*.
 
 - The [Specification](specification) provides detailed information on the internal components of *jsii*.
-- The [Architecture Decision Records](adrs) contains the log of all architectural decisions made while developing the
+- The [Architecture Decision Records](decisions) contains the log of all architectural decisions made while developing the
   *jsii* project.
 
 ## How to contribute
